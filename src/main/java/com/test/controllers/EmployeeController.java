@@ -16,7 +16,7 @@ public class EmployeeController {
 				emp.setLastName("Katanor");
 				emp.setId(1266);
 				emp.setAddress("Hyderabad");
-				emp.setSalary("$50000");
+				emp.setSalary("$80000");
 				return emp;
 		}
 }
